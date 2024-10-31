@@ -7,7 +7,7 @@ section{
     background: #7b00ff;
     padding-bottom: 80px;
     padding-top: 80px;
-    display: flex;
+    /*display: flex;*/
     justify-content: center;
 }
 .chamada-texto{
