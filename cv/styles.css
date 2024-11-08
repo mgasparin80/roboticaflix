@@ -10,6 +10,17 @@ header {
     color: white;
     text-align: center;
     padding: 1em 0;
+    position: fixed;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
 
 section {
@@ -36,16 +47,6 @@ ul li {
     border-radius: 4px;
 }
 
-footer {
-    text-align: center;
-    padding: 10px;
-    background-color: #4CAF50;
-    color: white;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
-
 #user-ip {
     margin-top: 10px;
     font-size: 0.9em;
@@ -57,7 +58,7 @@ footer {
     padding-bottom: 56.25%; /* 16:9 */
     height: 0;
     overflow: hidden;
-    max-width: 80%;
+    max-width: 100%;
     background: #000;
     margin: 20px 0;
 }
