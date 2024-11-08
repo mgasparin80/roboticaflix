@@ -57,7 +57,7 @@ ul li {
 
 .video-container {
     position: relative;
-    padding-bottom: 16:9;  /*56.25%*/
+    /* padding-bottom: 16:9;  56.25% */
     height: 0;
     overflow: hidden;
     max-width: 100%;
