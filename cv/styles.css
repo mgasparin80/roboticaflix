@@ -55,7 +55,7 @@ ul li {
     color: #555;
 }
 
-/* .video-container {
+.video-container {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 */
     height: 0;
@@ -65,7 +65,7 @@ ul li {
     margin: 20px 0;
 }
 
-.video-container iframe {
+/* .video-container iframe {
     position: absolute;
     top: 0;
     left: 0;
